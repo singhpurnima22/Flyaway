@@ -61,7 +61,7 @@ body {
 	</div>
 <form method="POST" action="AddAirline">
 	Airline Name :  <input type="text"  name="txtalname" />
-	<br />
+		<br />
 	<input type="submit"  value="Add" />
 </form>
 </body>
