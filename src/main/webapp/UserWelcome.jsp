@@ -76,5 +76,6 @@ body {
 </table>
 <a href="UserBookings"><h1>view your booking</h1></a>
 <a href="search.jsp"><h1>Book Flight</h1></a>
+
 </body>
 </html>

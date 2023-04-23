@@ -62,9 +62,6 @@ body {
 <form method="POST" action="AddAirline">
 	Airline Name :  <input type="text"  name="txtalname" />
 	<br />
-	
-	
-	
 	<input type="submit"  value="Add" />
 </form>
 </body>
