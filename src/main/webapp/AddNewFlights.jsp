@@ -15,8 +15,7 @@
 </head>
 <body>
 	<form method="POST" action="AddFlights">
-
-		<%
+<%
 	FlightOperations fo = new FlightOperations();
 	List<Airports> airportList = fo.getAllAirports();
 	List<Airlines> airlineList = fo.getAllAirlines();
